@@ -8,4 +8,5 @@
 ![chat](https://user-images.githubusercontent.com/76514241/119774987-f288ff80-befd-11eb-9fe3-a922aa20c2cf.jpg)
 
 ## Detecting & broadcasting (deregistration / disappearance)
-![deregi](https://user-images.githubusercontent.com/76514241/119775118-22d09e00-befe-11eb-8c77-0818272ed9d9.jpg)
+![deregi](https://user-images.githubusercontent.com/76514241/119775346-6fb47480-befe-11eb-8839-9f32e9bfec4f.PNG)
+
